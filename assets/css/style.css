@@ -1,0 +1,36 @@
+@font-face {
+	font-family: "AmienneRegular";
+	src: url("../font/AmienneRegular.ttf");
+}
+
+/* NAVBAR */
+.nav {
+	font-size: 2em;
+}
+
+.btn {
+	font-family: "AmienneRegular";
+	font-size: 1.2em;
+}
+
+.btn:hover {
+	color: #43d827;
+}
+
+/* TITRE */
+.title {
+	padding-top: 80px;
+	padding-bottom: 100px;
+	color: #43d827;
+	font-family: "AmienneRegular";
+}
+
+/* CATEGORIES */
+.name {
+	padding-top: 25px;
+	font-family: "AmienneRegular";
+}
+
+footer {
+	padding-top: 50px;
+}
